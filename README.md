@@ -8,6 +8,6 @@ This is a collection of basic React apps that I made following tutorials and gui
 
 Name | Description | Date
 --- | --- | ---
-Todoer | A todo app, where you can add a task to do, mark it completed or delete it | March 7-9, 2021
+[Todoer](https://github.com/nslcoder/quick-react-projects/tree/main/todoer) | A todo app, where you can add a task to do, mark it completed or delete it | March 7-9, 2021
 
 
