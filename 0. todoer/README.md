@@ -4,6 +4,9 @@ An app where you can add a task to do, mark it completed or delete it
 
 ![Fullpage view of Todoer](./screenshots/todoer-fullpage-view.png)
 
+## Demo
+[https://8gu34.csb.app/](https://8gu34.csb.app/)
+
 ## What I Changed:
 - Redesigned the interface 
 - Added responsiveness
